@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "endermc.mcsh.io",
-    "port": 25565,
+    "ip": "aksvs.aternos.me",
+    "port": 46990,
     "version": "1.21.1"
   },
   "position": {
